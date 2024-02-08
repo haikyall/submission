@@ -1,4 +1,4 @@
-from math import cbrt, exp, tan
+ffrom math import cbrt, exp, tan
 
 var1 = int(input("Enter a number:"))
 
